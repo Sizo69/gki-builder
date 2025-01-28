@@ -13,7 +13,7 @@ export ANYKERNEL_BRANCH="gki"
 
 # Kernel
 export KERNEL_REPO="https://github.com/hazepynut/gki_android12-5.10"
-export KERNEL_BRANCH="master"
+export KERNEL_BRANCH="gold"
 export DEFCONFIG="gki_defconfig"
 export KERNEL_IMAGE="$WORKDIR/out/arch/arm64/boot/Image"
 
